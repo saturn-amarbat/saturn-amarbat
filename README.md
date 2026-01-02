@@ -1,4 +1,4 @@
-# Hi, I'm Saturn 👋
+# Hello, I'm Saturn 👋
 
 ## CS @ UIC | Systems Programming & AI/ML
 
