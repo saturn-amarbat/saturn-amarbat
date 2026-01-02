@@ -48,6 +48,16 @@ Software Engineering or AI-related **internship opportunities** where I can:
 
 ### 📫 Connect With Me
 
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saturn-amarbat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saturn-amarbat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saturn-amarbat-tech)
 
 ---
